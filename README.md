@@ -72,14 +72,6 @@ This website provides 7-day weather forecasts for user-specified locations using
 **Full Stack Web Developer Intern** - NullClass _(July 2024 - Sept 2024)_  
 Working on building full-stack applications using **React**, **Express.js**, **MongoDB**, **Firebase**, and **Tailwind CSS**.
 
----
-
-### 📈 GitHub Stats
-
-![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritra212&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra212&layout=compact&theme=radical)
-
----
 
 ### 🖼️ Portfolio
 
