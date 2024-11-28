@@ -69,8 +69,8 @@ This website provides 7-day weather forecasts for user-specified locations using
 
 ### 🌟 Work Experience
 
-**Full Stack Web Developer Intern** - NullClass _(July 2024 - Sept 2024)_  
-Working on building full-stack applications using **React**, **Express.js**, **MongoDB**, **Firebase**, and **Tailwind CSS**.
+**Full Stack Web Developer** - ChatDMC _(Oct 2024 - present)_  
+Working on building full-stack applications using **Next.js**, **Supabase**, **TailwindCSS**
 
 
 ### 🖼️ Portfolio
