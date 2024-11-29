@@ -1,3 +1,6 @@
+
+<a href="https://aritra212.github.io/my_portfolio" target= "_blank"><img src="https://github.com/Aritra212/Aritra212/blob/main/assets/banner.png" width= 100%/></a>
+
 # Hi there! 👋 I'm Aritra Paul
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aritra212-blue?style=flat&logo=github)](https://github.com/Aritra212)
