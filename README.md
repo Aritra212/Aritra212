@@ -63,3 +63,6 @@ Explore my work in detail on my [Portfolio](https://aritra212.github.io/my_portf
 ### 🌐 Let's Connect
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aritra212) or via email at [aritrapaulpc@gmail.com](mailto:aritrapaulpc@gmail.com).
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aritra212&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra212&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
