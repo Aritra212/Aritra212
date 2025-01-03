@@ -1,4 +1,4 @@
-<a href="https://helloaritra.netlify.app/" target= "_blank"><img src="https://github.com/Aritra212/Aritra212/blob/main/assets/banner.png" width= 100%/></a>
+<a href="https://helloaritra.netlify.app/" target= "_blank"><img src="https://github.com/Aritra212/Aritra212/blob/main/assets/banner2.jpg" width= 100%/></a>
 
 👋🏻Hey there! I’m Aritra Paul, a results-driven **Full Stack Web Developer** with a knack for transforming ideas into interactive, scalable, and efficient web solutions. Armed with expertise in **Next.js**, **MERN stack**, **TypeScript**, and trendy design systems like **Tailwind CSS** and **Shadcn**, I thrive on creating digital experiences that leave a mark.
 
