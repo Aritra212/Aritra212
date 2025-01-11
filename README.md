@@ -2,7 +2,7 @@
 
 👋🏻Hey there! I’m Aritra Paul, a results-driven **Full Stack Web Developer** with a knack for transforming ideas into interactive, scalable, and efficient web solutions. Armed with expertise in **Next.js**, **MERN stack**, **TypeScript**, and trendy design systems like **Tailwind CSS** and **Shadcn**, I thrive on creating digital experiences that leave a mark.
 
-🎓 As a proud graduate of the **University of Kalyani**, where I earned my **Master’s in Computer Application** (MCA) with first-class (DGPA: 9.74/10), I’ve built a strong foundation in both theoretical principles and hands-on programming. From crafting pixel-perfect UIs to architecting robust backend systems, I love tackling challenges that push the boundaries of innovation.
+🎓 As a proud graduate of the **University of Kalyani**, where I earned my **Master’s in Computer Application** (MCA) with first-class (DGPA: 9.74), I’ve built a strong foundation in both theoretical principles and hands-on programming. From crafting pixel-perfect UIs to architecting robust backend systems, I love tackling challenges that push the boundaries of innovation.
 
 <!--
 [![GitHub](https://img.shields.io/badge/GitHub-Aritra212-blue?style=flat&logo=github)](https://github.com/Aritra212)
