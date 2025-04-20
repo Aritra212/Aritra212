@@ -24,6 +24,10 @@
 
 ## 🛠 Projects
 
+**💼 [Ecommerce Application](https://github.com/Aritra212/ecommerce-nextjs.git)**  
+A simple ecommerse web app build using Next.js, Supabase and Shadcn UI  
+_Technologies: Next.js, Shadcn UI, Supabase, Tailwind CSS_
+
 **💼 [Job Finding Website](https://github.com/Aritra212/JobNest.git)**  
 A feature-rich job portal with advanced search and filtering, Firebase authentication, multi-language support, and secure payment gateway integration via Razorpay.  
 _Technologies: React, Redux, Tailwind CSS, Express.js, Node.js, MongoDB, Firebase, Razorpay_
@@ -50,7 +54,7 @@ _Technologies: HTML, CSS, JavaScript_
 
 ### 🌟 Work Experience
 
-**Full Stack Web Developer** - ChatDMC _(Oct 2024 - present)_  
+**Full Stack Web Developer** - [ChatDMC](https://chatdmc.com/) _(Oct 2024 - present)_  
 Working on building full-stack applications using **Next.js**, **Supabase**, **TailwindCSS**
 
 ### 🖼️ Portfolio
