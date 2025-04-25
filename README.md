@@ -45,7 +45,7 @@ Let’s dive into my story...
 <img src="./assets/icons/typescript.svg" alt="TypeScript" width="35" align="left"/>
 <img src="./assets/icons/node-js.svg" alt="Node.js" width="40" align="left"/>
 <img src="./assets/icons/reactjs.svg" alt="React.js" width="35" align="left"/>
-<img src="./assets/icons/next-js-2.svg" alt="Next.js" width="40" align="left"/>
+<img src="./assets/icons/next-js.svg" alt="Next.js" width="40" align="left"/>
 <img src="./assets/icons/figma.svg" alt="Figma" width="40" align="left"/>
 <img src="./assets/icons/firebase.svg" alt="Firebase" width="40" align="left"/>
 <img src="./assets/icons/git.svg" alt="Git" width="40" align="left"/>
@@ -57,6 +57,7 @@ Let’s dive into my story...
 <img src="./assets/icons/notion.svg" alt="Notion" width="35" align="left"/>
 <img src="./assets/icons/docker.svg" alt="Docker" width="35" align="left"/>
 <img src="./assets/icons/supabase.svg" alt="Supabase" width="35" align="left"/>
+<img src="./assets/icons/postgresql.svg" alt="PostgreSql" width="35" align="left"/>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=23&reversal=false&fontSize=35&fontAlign=50&fontAlignY=46&descAlign=60&textBg=false&descSize=15&section=footer" alt="footer"/></div><br/>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aritra212&theme=soft-green&hide_border=true&hide_current_streak=true" alt="GitHub Streak"/></div>
